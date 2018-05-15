@@ -1,0 +1,1103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP_Translations\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org\n"
+"Last-Translator: Stephen Edgar, 2018\n"
+"Language-Team: English (Australia) (https://www.transifex.com/wp-translations/teams/64435/en_AU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-05-15T13:58:56+00:00\n"
+"PO-Revision-Date: 2018-05-13 07:03:44\n"
+"Language: en_AU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:78
+msgid "No data available"
+msgstr "No data available"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:79
+msgctxt "Please don't translate: _START_ _END_ _TOTAL_"
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Showing _START_ to _END_ of _TOTAL_ entries"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:80
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Showing 0 to 0 of 0 entries"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:81
+msgctxt "Please don't translate: _MAX_"
+msgid "filtered from _MAX_ total entries"
+msgstr "filtered from _MAX_ total entries"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:82
+msgctxt "Please don't translate: _MENU_"
+msgid "Show _MENU_ entries"
+msgstr "Show _MENU_ entries"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:83
+msgid "Processing..."
+msgstr "Processing..."
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:84
+msgid "Search:"
+msgstr "Search:"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:85
+msgid "No matching records found"
+msgstr "No matching records found"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:86
+msgid "First"
+msgstr "First"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:87
+msgid "Last"
+msgstr "Last"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:88
+msgid "Next"
+msgstr "Next"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:89
+msgid "Previous"
+msgstr "Previous"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:90
+msgid ": activate to sort column ascending"
+msgstr ": activate to sort column ascending"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:91
+msgid ": activate to sort column descending"
+msgstr ": activate to sort column descending"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:123
+msgid "Save License"
+msgstr "Save License"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:124
+msgid "Delete License"
+msgstr "Delete License"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php125,
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php387,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php220,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php228,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php234,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:157
+msgid "Activate"
+msgstr "Activate"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php126,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php208,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:159
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php127,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php227,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:227
+msgid "Renew"
+msgstr "Renew"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php128,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php217,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:218
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:129
+msgid "Install translations"
+msgstr "Install translations"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:130
+msgid "Activated and installed"
+msgstr "Activated and installed"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php131,
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php:28
+msgid "Add a new rule"
+msgstr "Add a new rule"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:134
+msgid "License expired"
+msgstr "License expired"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:135
+msgid "License activated"
+msgstr "License activated"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:136
+msgid "License can be activated"
+msgstr "License can be activated"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:137
+msgid "License deactivated"
+msgstr "License deactivated"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:140
+msgid "Check license status"
+msgstr "Check license status"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php141,
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:184
+msgid "Downloading and installing your language pack"
+msgstr "Downloading and installing your language pack"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php142,
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:185
+msgid "Check for updates"
+msgstr "Check for updates"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php143,
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:186
+msgid "Clearing cache"
+msgstr "Clearing cache"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php144,
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:187
+msgid "Language pack installed!"
+msgstr "Language pack installed!"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:145
+msgid "Deleting license"
+msgstr "Deleting license"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:146
+msgid "Saving license"
+msgstr "Saving license"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:147
+msgid "Deactivating license"
+msgstr "Deactivating license"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:150
+msgid "Delete repository"
+msgstr "Delete repository"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:151
+msgid "Deleting repository"
+msgstr "Deleting repository"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:152
+msgid "Saving repository"
+msgstr "Saving repository"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:153
+msgid "Deactivating repository"
+msgstr "Deactivating repository"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:154
+msgid "Activating repository"
+msgstr "Activating repository"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php155,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:166
+msgid "Edit"
+msgstr "Edit"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php156,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php136,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:136
+msgid "Close Modal"
+msgstr "Close Modal"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:159
+msgid "Saving settings"
+msgstr "Saving settings"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php160,
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php267,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php30,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:201
+msgid "All"
+msgstr "All"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php161,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:199
+msgid "Delete custom file"
+msgstr "Delete custom file"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:162
+msgid "Deleting custom file"
+msgstr "Deleting custom file"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:163
+msgid "Custom file deleted"
+msgstr "Custom file deleted"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:166
+msgid "Deleting translations files"
+msgstr "Deleting translations files"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:167
+msgid "Installing translations files"
+msgstr "Installing translations files"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:168
+msgid "Translations files deleted"
+msgstr "Translations files deleted"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:169
+msgid "Translations files installed"
+msgstr "Translations files installed"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php170,
+#: src/WP_Translations/WordPress/Admin/Actions/LanguageActions.php53,
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php:122
+msgid "Something went wrong"
+msgstr "Something went wrong"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:179
+msgid "Updating translations"
+msgstr "Updating translations"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:180
+msgid "Translations updated"
+msgstr "Translations updated"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php:181
+msgid "The translations are up to date."
+msgstr "The translations are up to date."
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php200,
+#: src/WP_Translations/WordPress/Admin/TranslationNotification.php:80
+msgid "New translations are available:&nbsp;"
+msgstr "New translations are available:&nbsp;"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php201,
+#: src/WP_Translations/WordPress/Admin/TranslationNotification.php81,
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php:133
+msgid "Update now"
+msgstr "Update now"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php202,
+#: src/WP_Translations/WordPress/Admin/TranslationNotification.php:107
+msgid "A premium translation is available!"
+msgstr "A premium translation is available!"
+
+#: src/WP_Translations/WordPress/Admin/EnqueueAssets.php203,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php24,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:229
+msgid "View details"
+msgstr "View details"
+
+#: src/WP_Translations/WordPress/Admin/Notice.php:33
+msgid "Settings updated."
+msgstr "Settings updated."
+
+#: src/WP_Translations/WordPress/Admin/Notice.php:37
+msgid "Products list reloaded."
+msgstr "Products list reloaded."
+
+#: src/WP_Translations/WordPress/Admin/Notice.php:41
+msgid "Check for translations updates, done!"
+msgstr "Check for translations updates, done!"
+
+#: src/WP_Translations/WordPress/Admin/Notice.php:45
+msgid "Translations settings successfully reseted."
+msgstr "Translations settings successfully reseted."
+
+#: src/WP_Translations/WordPress/Admin/Notice.php:49
+msgid "Logs successfully purged."
+msgstr "Logs successfully purged."
+
+#: src/WP_Translations/WordPress/Admin/Page.php97,
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php21,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:37
+msgid "Updates"
+msgstr "Updates"
+
+#: src/WP_Translations/WordPress/Admin/Page.php103,
+#: src/WP_Translations/WordPress/Helpers/PageHelper.php30,
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php:183
+msgid "Logs"
+msgstr "Logs"
+
+#: src/WP_Translations/WordPress/Admin/Page.php109,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php52,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php195,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:81
+msgid "Repositories"
+msgstr "Repositories"
+
+#: src/WP_Translations/WordPress/Admin/Page.php:131
+msgid "Visit %1$s website | %2$sContact Support%3$s"
+msgstr "Visit %1$s website | %2$sContact Support%3$s"
+
+#: src/WP_Translations/WordPress/Admin/Page.php:148
+msgid "Help us with Translations"
+msgstr "Help us with Translations"
+
+#: src/WP_Translations/WordPress/Admin/Page.php:149
+msgid "Version:&nbsp;"
+msgstr "Version:&nbsp;"
+
+#. translators: 1: Number of updates available to WordPress
+#: src/WP_Translations/WordPress/Admin/TranslationSetup.php:137
+msgid "%d WordPress Update"
+msgstr "%d WordPress Update"
+
+#. translators: 1: Number of updates available to plugins
+#: src/WP_Translations/WordPress/Admin/TranslationSetup.php:141
+msgid "%d Plugin Update"
+msgid_plural "%d Plugin Updates"
+msgstr[0] "%d Plugin Update"
+msgstr[1] "%d Plugin Updates"
+
+#. translators: 1: Number of updates available to themes
+#: src/WP_Translations/WordPress/Admin/TranslationSetup.php:145
+msgid "%d Theme Update"
+msgid_plural "%d Theme Updates"
+msgstr[0] "%d Theme Update"
+msgstr[1] "%d Theme Updates"
+
+#. translators: 1: Number of updates available to translations
+#: src/WP_Translations/WordPress/Admin/TranslationSetup.php:149
+msgid "%d Translation Update"
+msgid_plural "%d Translation Updates"
+msgstr[0] "%d Translation Update"
+msgstr[1] "%d Translation Updates"
+
+#: src/WP_Translations/WordPress/Admin/TranslationUpgrader.php34,
+#: src/WP_Translations/WordPress/Admin/Actions/LanguageActions.php30,
+#: src/WP_Translations/WordPress/Admin/Actions/LanguageActions.php64,
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php42,
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php134,
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php:164
+msgid "You don&#8217;t have permission to do this."
+msgstr "You don&#8217;t have permission to do this."
+
+#: src/WP_Translations/WordPress/Admin/TranslationUpgrader.php:41
+msgid "You do not have sufficient permissions to update this site."
+msgstr "You do not have sufficient permissions to update this site."
+
+#: src/WP_Translations/WordPress/Admin/TranslationUpgrader.php:86
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Unable to connect to the filesystem. Please confirm your credentials."
+
+#: src/WP_Translations/WordPress/Admin/TranslationUpgrader.php:96
+msgid "Translations update failed."
+msgstr "Translations update failed."
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php47,
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php61,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:91
+msgid "Text Domain"
+msgstr "Text Domain"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php48,
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php341,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:81
+msgid "Type"
+msgstr "Type"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php49,
+#: src/WP_Translations/WordPress/Helpers/PageHelper.php25,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:32
+msgid "Languages"
+msgstr "Languages"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php:50
+msgid "Current Version"
+msgstr "Current Version"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php:51
+msgid "Available Version"
+msgstr "Available Version"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php:52
+msgid "Source"
+msgstr "Source"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php53,
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php45,
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php93,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php102,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php86,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php204,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:106
+msgid "Actions"
+msgstr "Actions"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php65,
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:318
+msgid "Core"
+msgstr "Core"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php73,
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:310
+msgid "Plugins"
+msgstr "Plugins"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php85,
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:314
+msgid "Themes"
+msgstr "Themes"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php97,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:172
+msgid "No translations found"
+msgstr "No translations found"
+
+#: src/WP_Translations/WordPress/Admin/UpdateCore.php126,
+#: src/WP_Translations/WordPress/Helpers/ProductHelper.php:114
+msgid "Changelog"
+msgstr "Changelog"
+
+#: src/WP_Translations/WordPress/Helpers/Helper.php:203
+msgid "Install languages"
+msgstr "Install languages"
+
+#: src/WP_Translations/WordPress/Helpers/Helper.php:204
+msgid "Update translations"
+msgstr "Update translations"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:39
+msgid "Activated"
+msgstr "Activated"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:44
+msgid "Deactivated"
+msgstr "Deactivated"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php49,
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:89
+msgid "Expired"
+msgstr "Expired"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:54
+msgid "Inactive Site"
+msgstr "Inactive Site"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:59
+msgid "Inactive Key"
+msgstr "Inactive Key"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:68
+msgid "Disabled"
+msgstr "Disabled"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:74
+msgid "Invalid"
+msgstr "Invalid"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:79
+msgid "Activation Limit"
+msgstr "Activation Limit"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:84
+msgid "Invalid key for this product"
+msgstr "Invalid key for this product"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:106
+msgid "License Activated"
+msgstr "License Activated"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php111,
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:148
+msgid "Your license key expired on %s"
+msgstr "Your license key expired on %s"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:117
+msgid "Your license is not active for this site"
+msgstr "Your license is not active for this site"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:121
+msgid "Inactive License Key"
+msgstr "Inactive License Key"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:130
+msgid "Your license key has been disabled"
+msgstr "Your license key has been disabled"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:135
+msgid "Invalid license"
+msgstr "Invalid license"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:139
+msgid "Your license key has reached its activation limit"
+msgstr "Your license key has reached its activation limit"
+
+#: src/WP_Translations/WordPress/Helpers/LicenseHelper.php:143
+msgid "This appears to be an invalid license key for this product"
+msgstr "This appears to be an invalid license key for this product"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:23
+msgid "Activation"
+msgstr "Activation"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:28
+msgid "Deactivation"
+msgstr "Deactivation"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php33,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php213,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:344
+msgid "Save"
+msgstr "Save"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php38,
+#: src/WP_Translations/WordPress/Admin/Actions/LanguageActions.php42,
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php145,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:174
+msgid "Delete"
+msgstr "Delete"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:40
+msgid "Deleted"
+msgstr "Deleted"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:44
+msgid "Updated"
+msgstr "Updated"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php46,
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:60
+msgid "Success"
+msgstr "Success"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:50
+msgid "Update available"
+msgstr "Update available"
+
+#: src/WP_Translations/WordPress/Helpers/LoggerHelper.php:52
+msgid "Waiting"
+msgstr "Waiting"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php42,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php43,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php130,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php131,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php259,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php260,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php225,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:225
+msgid "Close modal"
+msgstr "Close modal"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:61
+msgid "Version:"
+msgstr "Version:"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:64
+msgid "Last Update:"
+msgstr "Last Update:"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:68
+msgid "Contributors:"
+msgstr "Contributors:"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:94
+msgid "Go to Store"
+msgstr "Go to Store"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php110,
+#: src/WP_Translations/WordPress/Helpers/PageHelper.php35,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php295,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:225
+msgid "Settings"
+msgstr "Settings"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php140,
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php:269
+msgid "Loading settings"
+msgstr "Loading settings"
+
+#: src/WP_Translations/WordPress/Helpers/ModalHelper.php235,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:21
+msgid "Add a Repository"
+msgstr "Add a Repository"
+
+#: src/WP_Translations/WordPress/Helpers/PageHelper.php:20
+msgid "Translations"
+msgstr "Translations"
+
+#: src/WP_Translations/WordPress/Helpers/ProductHelper.php:118
+msgid "Installation"
+msgstr "Installation"
+
+#: src/WP_Translations/WordPress/Helpers/ProductHelper.php122,
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php380,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php76,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:199
+msgid "Description"
+msgstr "Description"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php322,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php82,
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php71,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:86
+msgid "Name"
+msgstr "Name"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:329
+msgid "Provider"
+msgstr "Provider"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:344
+msgid "Public"
+msgstr "Public"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:345
+msgid "Private"
+msgstr "Private"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:356
+msgid "Token"
+msgstr "Token"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:366
+msgid "URL"
+msgstr "URL"
+
+#: src/WP_Translations/WordPress/Helpers/RepositoryHelper.php:373
+msgid "Logo"
+msgstr "Logo"
+
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:332
+msgid "Allow updates from"
+msgstr "Allow updates from"
+
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:340
+msgid "Lock translation"
+msgstr "Lock translation"
+
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:347
+msgid "Custom translation"
+msgstr "Custom translation"
+
+#: src/WP_Translations/WordPress/Helpers/TranslationHelper.php:354
+msgid "Upload custom file (mo/po)"
+msgstr "Upload custom file (mo/po)"
+
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php:35
+msgid "Roles"
+msgstr "Roles"
+
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php40,
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php58,
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php73,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:61
+msgid "Capabilities"
+msgstr "Capabilities"
+
+#: src/WP_Translations/WordPress/Admin/Actions/CapabilityActions.php60,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:63
+msgid "Add translations capabilities (install/update) to specific roles."
+msgstr "Add translations capabilities (install/update) to specific roles."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:29
+msgid "MO Cache"
+msgstr "MO Cache"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:31
+msgid "Cache translations with object cache"
+msgstr "Cache translations with object cache"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:36
+msgid "Gettext"
+msgstr "Gettext"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:39
+msgid "WordPress gettext"
+msgstr "WordPress gettext"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:40
+msgid "PHP native gettext"
+msgstr "PHP native gettext"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php:42
+msgid "Select Gettext library."
+msgstr "Select Gettext library."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PerformanceActions.php54,
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:68
+msgid "Performance"
+msgstr "Performance"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php57,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php68,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:258
+msgid "Licenses"
+msgstr "Licenses"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php80,
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php:56
+msgid "Date"
+msgstr "Date"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php85,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:87
+msgid "License Key"
+msgstr "License Key"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php90,
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php:76
+msgid "Action"
+msgstr "Action"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php95,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:97
+msgid "Status"
+msgstr "Status"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:108
+msgid "Products Updates"
+msgstr "Products Updates"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:110
+msgid "Force products updates."
+msgstr "Force products updates."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php124,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php160,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php190,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php242,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php262,
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php325,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php110,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php133,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php156,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php177,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php259,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:311
+msgid "Cheatin'uh"
+msgstr "Cheatin'uh"
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:128
+msgid "Please, enter a license key."
+msgstr "Please, enter a license key."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:146
+msgid "License key successfully saved."
+msgstr "License key successfully saved."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:178
+msgid "License key successfully deleted."
+msgstr "License key successfully deleted."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:208
+msgid "License successfully activated."
+msgstr "License successfully activated."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:282
+msgid "License successfully deactivated."
+msgstr "License successfully deactivated."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:289
+msgid "License fails to be deactivated."
+msgstr "License fails to be deactivated."
+
+#: src/WP_Translations/WordPress/Admin/Actions/PremiumActions.php:333
+msgid "Check for updates done."
+msgstr "Check for updates done."
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:119
+msgid "Repository activated."
+msgstr "Repository activated."
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:142
+msgid "Repository deactivated."
+msgstr "Repository deactivated."
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:165
+msgid "Repository settings loaded"
+msgstr "Repository settings loaded"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php185,
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:197
+msgid "This field is required."
+msgstr "This field is required."
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:190
+msgid "Project name already exist!"
+msgstr "Project name already exist!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:204
+msgid "HTTP repository must be public!"
+msgstr "HTTP repository must be public!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:211
+msgid "Token is required for private repository!"
+msgstr "Token is required for private repository!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:232
+msgid "Something went wrong!"
+msgstr "Something went wrong!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:244
+msgid "Repository successfully added!"
+msgstr "Repository successfully added!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:244
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: src/WP_Translations/WordPress/Admin/Actions/RepositoryActions.php:271
+msgid "Repository successfully deleted!"
+msgstr "Repository successfully deleted!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/SettingsActions.php50,
+#: src/WP_Translations/WordPress/Admin/Actions/SettingsActions.php:73
+msgid "Trying to cheat or something?"
+msgstr "Trying to cheat or something?"
+
+#: src/WP_Translations/WordPress/Admin/Actions/SettingsActions.php50,
+#: src/WP_Translations/WordPress/Admin/Actions/SettingsActions.php:73
+msgid "Error"
+msgstr "Error"
+
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php:94
+msgid "Please select a file"
+msgstr "Please select a file"
+
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php:114
+msgid "Settings saved!"
+msgstr "Settings saved!"
+
+#: src/WP_Translations/WordPress/Admin/Actions/TranslationActions.php:174
+msgid "Translations settings loaded"
+msgstr "Translations settings loaded"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:23
+msgid "Install"
+msgstr "Install"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:78
+msgid "Locales"
+msgstr "Locales"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:83
+msgid "Native Names"
+msgstr "Native Names"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:88
+msgid "English Names"
+msgstr "English Names"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:163
+msgid "Available Translations"
+msgstr "Available Translations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLanguages.php:167
+msgid "Available Languages"
+msgstr "Available Languages"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php:66
+msgid "Language"
+msgstr "Language"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageLogs.php:71
+msgid "Version"
+msgstr "Version"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:30
+msgid "Available translations"
+msgstr "Available translations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:39
+msgid "Addons"
+msgstr "Addons"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:92
+msgid "Activations"
+msgstr "Activations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php201,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:201
+msgid "Save license"
+msgstr "Save license"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php202,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:202
+msgid "Get a license"
+msgstr "Get a license"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php237,
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:237
+msgid "Delete license"
+msgstr "Delete license"
+
+#: src/WP_Translations/WordPress/Admin/Page/PagePremium.php:262
+msgid "Available Products"
+msgstr "Available Products"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:132
+msgid "WP-Translations community repository"
+msgstr "WP-Translations community repository"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageRepositories.php:171
+msgid "Protected"
+msgstr "Protected"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:22
+msgid "Features"
+msgstr "Features"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:27
+msgid "UI Integration"
+msgstr "UI Integration"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:42
+msgid "Advanced"
+msgstr "Advanced"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:70
+msgid "Optimize localization."
+msgstr "Optimize localisation."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:75
+msgid "Premium"
+msgstr "Premium"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:77
+msgid "Get Premium translations updates and notices."
+msgstr "Get Premium translations updates and notices."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:83
+msgid "Allow external repositories for translations updates."
+msgstr "Allow external repositories for translations updates."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:89
+msgid "Core updates"
+msgstr "Core updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:91
+msgid "Display translations updates details in core's update page."
+msgstr "Display translations updates details in core's update page."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:95
+msgid "Plugins updates"
+msgstr "Plugins updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:97
+msgid "Display translations updates details in plugin's update page."
+msgstr "Display translations updates details in plugin's update page."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:101
+msgid "Themes updates"
+msgstr "Themes updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:103
+msgid "Display translations updates details in theme's update page."
+msgstr "Display translations updates details in theme's update page."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:107
+msgid "Display bubble count"
+msgstr "Display bubble count"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:109
+msgid "Updates bubble count with translations."
+msgstr "Updates bubble count with translations."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:113
+msgid "Page position"
+msgstr "Page position"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:116
+msgid "Dedicated page"
+msgstr "Dedicated page"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:117
+msgid "Settings subpage"
+msgstr "Settings subpage"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:119
+msgid "Select admin page position"
+msgstr "Select admin page position"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:125
+msgid "Front User Locale"
+msgstr "Front User Locale"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:127
+msgid "Enable user locale on front-end"
+msgstr "Enable user locale on front-end"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:131
+msgid "Language Fallback"
+msgstr "Language Fallback"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:133
+msgid "Set a fallback for your chosen language"
+msgstr "Set a fallback for your chosen language"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:140
+msgid "Async updates"
+msgstr "Async updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:142
+msgid "Enable/disable async updates"
+msgstr "Enable/disable async updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:148
+msgid "Debug Mode"
+msgstr "Debug Mode"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:150
+msgid "Toggle debug mode. It may affect performance."
+msgstr "Toggle debug mode. It may affect performance."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:154
+msgid "Check Translations Updates"
+msgstr "Check Translations Updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:156
+msgid "Force translations updates."
+msgstr "Force translations updates."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:160
+msgid "Reset Translations"
+msgstr "Reset Translations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:162
+msgid "Reset all translations settings: repositories priorities, locked translations..."
+msgstr "Reset all translations settings: repositories priorities, locked translations..."
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:166
+msgid "Purge Logs"
+msgstr "Purge Logs"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:194
+msgid "Options"
+msgstr "Options"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageSettings.php:284
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:34
+msgid "Switch"
+msgstr "Switch"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:96
+msgid "Loaded Translations"
+msgstr "Loaded Translations"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:101
+msgid "Authorized Repositories"
+msgstr "Authorised Repositories"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:158
+msgctxt "text-domain"
+msgid "not loaded"
+msgstr "not loaded"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php222,
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:222
+msgid "Update"
+msgstr "Update"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:244
+msgid "Translations Updates"
+msgstr "Translations Updates"
+
+#: src/WP_Translations/WordPress/Admin/Page/PageTranslations.php:248
+msgid "Translations Settings"
+msgstr "Translations Settings"
