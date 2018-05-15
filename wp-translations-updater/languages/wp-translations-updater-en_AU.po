@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-translations-updater\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Stephen Edgar, 2018\n"
+"Language-Team: English (Australia) (https://www.transifex.com/wp-translations/teams/64435/en_AU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-05-15T12:27:17+00:00\n"
+"PO-Revision-Date: 2018-04-20 00:11:11\n"
+"Language: en_AU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/admin/add-project.php17,
+#: templates/admin/edit-project.php18,
+#: templates/admin/notifications.php18,
+#: templates/admin/view-project.php18,
+#: src/WP_Translations_Updater/WordPress/Admin/EnqueueAssets.php:77
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: templates/admin/add-project.php17,
+#: templates/admin/edit-project.php18,
+#: templates/admin/notifications.php18,
+#: templates/admin/view-project.php18,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php46,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php88,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php129,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php134,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php161,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:166
+msgid "Error"
+msgstr "Error"
+
+#: templates/admin/add-project.php:22
+msgid "Add New Project"
+msgstr "Add New Project"
+
+#: templates/admin/add-project.php22,
+#: templates/admin/edit-project.php28,
+#: templates/admin/notifications.php24,
+#: templates/admin/settings-project.php26,
+#: templates/admin/view-project.php:30
+msgid "Back"
+msgstr "Back"
+
+#: templates/admin/add-project.php30,
+#: templates/admin/edit-project.php37,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:69
+msgid "Project Name"
+msgstr "Project Name"
+
+#: templates/admin/add-project.php34,
+#: templates/admin/edit-project.php:41
+msgid "The name of this project"
+msgstr "The name of this project"
+
+#: templates/admin/add-project.php40,
+#: templates/admin/edit-project.php47,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:70
+msgid "Project Slug"
+msgstr "Project Slug"
+
+#: templates/admin/add-project.php44,
+#: templates/admin/edit-project.php:51
+msgid "transifex and local project must have the same slug."
+msgstr "transifex and local project must have the same slug."
+
+#: templates/admin/add-project.php50,
+#: templates/admin/edit-project.php:57
+msgid "Due Date"
+msgstr "Due Date"
+
+#: templates/admin/add-project.php54,
+#: templates/admin/edit-project.php61,
+#: templates/admin/notifications.php:83
+msgid "Select a due date for this project."
+msgstr "Select a due date for this project."
+
+#: templates/admin/add-project.php:66
+msgid "Add Project"
+msgstr "Add Project"
+
+#: templates/admin/edit-project.php:28
+msgid "Edit Project"
+msgstr "Edit Project"
+
+#: templates/admin/edit-project.php:67
+msgid "Exclude WP-T Languages"
+msgstr "Exclude WP-T Languages"
+
+#: templates/admin/edit-project.php:79
+msgid "Override Text Domain"
+msgstr "Override Text Domain"
+
+#: templates/admin/edit-project.php:80
+msgid "Use this option when transifex slug don't match project text domain."
+msgstr "Use this option when transifex slug don't match project text domain."
+
+#: templates/admin/edit-project.php:105
+msgid "Update Project"
+msgstr "Update Project"
+
+#: templates/admin/notifications.php24,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:71
+msgid "Notifications"
+msgstr "Notifications"
+
+#: templates/admin/notifications.php:36
+msgid "Select Projects"
+msgstr "Select Projects"
+
+#: templates/admin/notifications.php:48
+msgid "Notifications Type"
+msgstr "Notifications Type"
+
+#: templates/admin/notifications.php:61
+msgid "Matrix URL"
+msgstr "Matrix URL"
+
+#: templates/admin/notifications.php:70
+msgid "Project Manager URL"
+msgstr "Project Manager URL"
+
+#: templates/admin/notifications.php:79
+msgid "Deadline"
+msgstr "Deadline"
+
+#: templates/admin/notifications.php:93
+msgid "Send notification"
+msgstr "Send notification"
+
+#: templates/admin/settings-project.php26,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php69,
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:109
+msgid "Settings"
+msgstr "Settings"
+
+#: templates/admin/settings-project.php:33
+msgid "transifex access token"
+msgstr "transifex access token"
+
+#: templates/admin/settings-project.php:38
+msgid "Your transifex access token."
+msgstr "Your transifex access token."
+
+#: templates/admin/settings-project.php:40
+msgid "Delete Token"
+msgstr "Delete Token"
+
+#: templates/admin/settings-project.php:47
+msgid "Define global languages"
+msgstr "Define global languages"
+
+#: templates/admin/settings-project.php:61
+msgid "Install Languages"
+msgstr "Install Languages"
+
+#: templates/admin/settings-project.php:64
+msgid "Check for missing languages"
+msgstr "Check for missing languages"
+
+#: templates/admin/settings-project.php:71
+msgid "Exclude projects from stats"
+msgstr "Exclude projects from stats"
+
+#: templates/admin/settings-project.php:84
+msgid "HighLighter Settings"
+msgstr "HighLighter Settings"
+
+#: templates/admin/settings-project.php:90
+msgid "Border"
+msgstr "Border"
+
+#: templates/admin/settings-project.php:93
+msgid "Enable border"
+msgstr "Enable border"
+
+#: templates/admin/settings-project.php:99
+msgid "Border settings"
+msgstr "Border settings"
+
+#: templates/admin/settings-project.php:104
+msgid "Dashed"
+msgstr "Dashed"
+
+#: templates/admin/settings-project.php:105
+msgid "Dotted"
+msgstr "Dotted"
+
+#: templates/admin/settings-project.php:106
+msgid "Solid"
+msgstr "Solid"
+
+#: templates/admin/settings-project.php:114
+msgid "Background"
+msgstr "Background"
+
+#: templates/admin/settings-project.php:117
+msgid "Enable background"
+msgstr "Enable background"
+
+#: templates/admin/settings-project.php:123
+msgid "Background color"
+msgstr "Background colour"
+
+#: templates/admin/settings-project.php:132
+msgid "Text color"
+msgstr "Text colour"
+
+#: templates/admin/settings-project.php:141
+msgid "Padding"
+msgstr "Padding"
+
+#: templates/admin/settings-project.php:152
+msgid "Live Preview"
+msgstr "Live Preview"
+
+#: templates/admin/settings-project.php:157
+msgid "String"
+msgstr "String"
+
+#: templates/admin/settings-project.php:160
+msgid "My string to highlight"
+msgstr "My string to highlight"
+
+#: templates/admin/settings-project.php165,
+#: templates/admin/settings-project.php:168
+msgid "Primary Button"
+msgstr "Primary Button"
+
+#: templates/admin/settings-project.php:183
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: templates/admin/view-project.php32,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:92
+msgid "Edit"
+msgstr "Edit"
+
+#: templates/admin/view-project.php34,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:183
+msgid "Translate"
+msgstr "Translate"
+
+#: templates/admin/view-project.php40,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:82
+msgid "List view"
+msgstr "List view"
+
+#: templates/admin/view-project.php41,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:83
+msgid "Grid view"
+msgstr "Grid view"
+
+#: templates/admin/view-project.php50,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:104
+msgid "Upcoming due date:&nbsp;"
+msgstr "Upcoming due date:&nbsp;"
+
+#: templates/admin/view-project.php:61
+msgid "Project Statistics"
+msgstr "Project Statistics"
+
+#: templates/admin/view-project.php81,
+#: templates/admin/view-project.php106,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php201,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:226
+msgid "Translated strings"
+msgstr "Translated strings"
+
+#: templates/admin/view-project.php87,
+#: templates/admin/view-project.php110,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php207,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:230
+msgid "Reviewed strings"
+msgstr "Reviewed strings"
+
+#: templates/admin/view-project.php98,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:218
+msgid "All Languages"
+msgstr "All Languages"
+
+#: templates/admin/view-project.php:123
+msgid "Statistics by Language"
+msgstr "Statistics by Language"
+
+#: templates/admin/view-project.php:133
+msgid "Statistics for: %s"
+msgstr "Statistics for: %s"
+
+#: src/WP_Translations_Updater/APIs/ApiNotice.php27,
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:101
+msgid "Unauthorized: authentication is required."
+msgstr "Unauthorised: authentication is required."
+
+#: src/WP_Translations_Updater/APIs/ApiNotice.php:31
+msgid "Project or language not found."
+msgstr "Project or language not found."
+
+#: src/WP_Translations_Updater/WordPress/Admin/EnqueueAssets.php:76
+msgid "Download and install now"
+msgstr "Download and install now"
+
+#: src/WP_Translations_Updater/WordPress/Admin/LanguagePacks.php31,
+#: src/WP_Translations_Updater/WordPress/Admin/LanguagePacks.php70,
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php290,
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:343
+msgid "You don&#8217;t have permission to do this."
+msgstr "You don&#8217;t have permission to do this."
+
+#: src/WP_Translations_Updater/WordPress/Admin/LanguagePacks.php:44
+msgid "All languages already installed!"
+msgstr "All languages already installed!"
+
+#: src/WP_Translations_Updater/WordPress/Admin/LanguagePacks.php:51
+msgid "%d language pack needs to be downloaded."
+msgid_plural "%d language packs need to be downloaded."
+msgstr[0] "%d language pack needs to be downloaded."
+msgstr[1] "%d language packs need to be downloaded."
+
+#: src/WP_Translations_Updater/WordPress/Admin/LanguagePacks.php:80
+msgid "All languages packs successfully installed!"
+msgstr "All languages packs successfully installed!"
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:37
+msgid "transifex credentials was not configured yet. Visit <a href=\"%s\">Settings</a> to configure."
+msgstr "transifex credentials was not configured yet. Visit <a href=\"%s\">Settings</a> to configure."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:53
+msgid "WP-Translations Updater use String Locator plugin to search strings in code. Please <a href=\"%s\">install and activate</a> it."
+msgstr "WP-Translations Updater use String Locator plugin to search strings in code. Please <a href=\"%s\">install and activate</a> it."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:71
+msgid "Project successfully added."
+msgstr "Project successfully added."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php74,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:113
+msgid "Project successfully updated."
+msgstr "Project successfully updated."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:77
+msgid "Project successfully deleted."
+msgstr "Project successfully deleted."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:80
+msgid "Token deleted."
+msgstr "Token deleted."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:83
+msgid "Settings updated."
+msgstr "Settings updated."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:86
+msgid "Notification successfully sent on Slack."
+msgstr "Notification successfully sent on Slack."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:89
+msgid "Notification failed."
+msgstr "Notification failed."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:92
+msgid "Project already exists."
+msgstr "Project already exists."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:95
+msgid "The project could not be added because one or more of the required fields was empty, please try again."
+msgstr "The project could not be added because one or more of the required fields was empty, please try again."
+
+#: src/WP_Translations_Updater/WordPress/Admin/Notice.php:98
+msgid "Project or language not found on transifex."
+msgstr "Project or language not found on transifex."
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php46,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:88
+msgid "You do not have permission to create projects"
+msgstr "You do not have permission to create projects"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php129,
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:161
+msgid "Trying to cheat or something?"
+msgstr "Trying to cheat or something?"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:134
+msgid "You do not have permission to delete projects"
+msgstr "You do not have permission to delete projects"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:166
+msgid "You do not have permission to edit settings"
+msgstr "You do not have permission to edit settings"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:193
+msgctxt "User Locale"
+msgid "Current User Locale: %s"
+msgstr "Current User Locale: %s"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:204
+msgctxt "Strings count"
+msgid "Untranslated: %s"
+msgstr "Untranslated: %s"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectActions.php:210
+msgctxt "Strings count"
+msgid "Unreviewed: %s"
+msgstr "Unreviewed: %s"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:21
+msgid "Project"
+msgstr "Project"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:22
+msgid "Projects"
+msgstr "Projects"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:37
+msgid "No project found."
+msgstr "No project found."
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:71
+msgid "Resources Files"
+msgstr "Resources Files"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:72
+msgid "Teams"
+msgstr "Teams"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:73
+msgid "Progress"
+msgstr "Progress"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:74
+msgid "Sync Date"
+msgstr "Sync Date"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:75
+msgid "Actions"
+msgstr "Actions"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectListTable.php:93
+msgid "Delete"
+msgstr "Delete"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:65
+msgid "All Projects"
+msgstr "All Projects"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:67
+msgid "Add New"
+msgstr "Add New"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:96
+msgid "%d project."
+msgid_plural "%d projects."
+msgstr[0] "%d project."
+msgstr[1] "%d projects."
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:101
+msgid "View project"
+msgstr "View project"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:120
+msgid "Overview"
+msgstr "Overview"
+
+#: src/WP_Translations_Updater/WordPress/Admin/ProjectPage.php:154
+msgid "WP-Translations Updater version:&nbsp;"
+msgstr "WP-Translations Updater version:&nbsp;"
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:33
+msgid "User Locale"
+msgstr "User Locale"
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php34,
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:61
+msgid "transifex Username"
+msgstr "transifex Username"
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php35,
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:68
+msgid "Slack Username"
+msgstr "Slack Username"
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:58
+msgid "WP-T Informations"
+msgstr "WP-T Informations"
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:64
+msgid "Please enter your transifex username."
+msgstr "Please enter your transifex username."
+
+#: src/WP_Translations_Updater/WordPress/Admin/User.php:71
+msgid "Please enter your Slack username."
+msgstr "Please enter your Slack username."
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:67
+msgid "Update all"
+msgstr "Update all"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php76,
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:190
+msgid "Update translation"
+msgstr "Update translation"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:78
+msgid "Remove %s Highlight"
+msgstr "Remove %s Highlight"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php80,
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:192
+msgid "Highlight"
+msgstr "Highlight"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:89
+msgid "Select Locale"
+msgstr "Select Locale"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:191
+msgid "Updating..."
+msgstr "Updating..."
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:193
+msgid "Generate highlighted mo file:&nbsp;"
+msgstr "Generate highlighted mo file:&nbsp;"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:194
+msgid "Refreshing Page"
+msgstr "Refreshing Page"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:195
+msgid "Remove Highlight"
+msgstr "Remove Highlight"
+
+#: src/WP_Translations_Updater/WordPress/AdminBar/Node.php:323
+msgid "Translation is up to date"
+msgstr "Translation is up to date"
